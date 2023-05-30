@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-public class TicTacToe
+public class Program
 {
   public int IsSolved(int[,] board)
   {
